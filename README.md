@@ -1,4 +1,4 @@
-<img src="https://github.com/devnycolas/devnycolas/assets/143043571/9f97fb7d-e28b-4891-a1bc-42805ddb24fe" alt="illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/thdoudement/assets/blob/main/development-4536630_1280.webp" alt="illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 👦 Olá, meu nome é <strong>Thiago Doudement!</strong>
 
