@@ -1,12 +1,10 @@
-<img src="https://github.com/thdoudement/assets/blob/main/development-4536630_1280.webp" alt="illustration" min-width="400px" max-width="400px" width="400px" align="right">
-
 ## 👦 Olá, meu nome é <strong>Thiago Doudement!</strong>
 
 ## 🚀 Minhas Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
   </a>
 </p>
 
